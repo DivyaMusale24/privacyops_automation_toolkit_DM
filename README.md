@@ -61,5 +61,5 @@ privacyops_automation_toolkit_DM/
 - Metabase/Redash integration for advanced analytics
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the (https://github.com/DivyaMusale24/privacyops_automation_toolkit_DM/blob/main/LICENSE) file for details.
 
