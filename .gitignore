@@ -1,0 +1,6 @@
+# Ignore SSH keys and certificates
+*.pub
+*.pem
+*.key
+*.crt
+id_*
