@@ -1,6 +1,6 @@
 import streamlit as st
-from app.components.ui import show_dashboard
-from app.data.storage import init_db
+from app.components.ui.py import show_dashboard
+from app.data.storage.py import init_db
 
 def main():
     st.set_page_config(page_title="PrivacyOps Automation Toolkit", layout="wide")
