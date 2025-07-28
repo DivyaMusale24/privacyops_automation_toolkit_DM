@@ -4,7 +4,7 @@ from app.data.storage import save_uploaded_file
 
 st.set_page_config(page_title="PrivacyOps Automation Toolkit", layout="wide")
 
-st.title("🛡️ PrivacyOps Automation Toolkit")
+st.title("PrivacyOps Automation Toolkit By DM")
 st.markdown("Automate vendor risk, RoPA & PIA tracking, and privacy reporting.")
 
 # Define tabs
